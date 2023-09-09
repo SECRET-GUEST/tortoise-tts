@@ -27,8 +27,8 @@ setuptools.setup(
         'unidecode',
         'scipy',
         'librosa',
-        #'transformers==4.31.0',
-        'tokenizers',
+        'transformers==4.31.0',
+        'tokenizers==0.11.2',
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
